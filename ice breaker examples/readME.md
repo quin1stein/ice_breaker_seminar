@@ -77,5 +77,3 @@ print(x + y)
 **Explanation:** In Python, `True` is `1`, and `False` is `0` → `True + False = 1 + 0 = 1`
 
 ---
-
-Enjoy the rest of the seminar and stay sharp! 🧠💻
