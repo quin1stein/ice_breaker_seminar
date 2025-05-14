@@ -1,4 +1,4 @@
-# 🧊 Ice Breaker: Python Guessing Games
+# Ice Breaker: Python Guessing Games
 
 Welcome to our ice breaker activity! Let's test your Python instincts with a few simple but tricky challenges.
 Can you **guess the error** or **guess the output** correctly?
